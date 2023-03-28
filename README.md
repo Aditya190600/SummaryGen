@@ -1,1 +1,1 @@
-### Book Cover GAN Generator
+### Summary Generator
