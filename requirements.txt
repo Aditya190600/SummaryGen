@@ -9,6 +9,7 @@ nltk
 gensim==3.4.0
 scikit-learn
 tensorflow
+tensorRT
 wordcloud
 spacy
 jupyter
