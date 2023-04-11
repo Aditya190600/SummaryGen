@@ -128,10 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 notebook/stopremove.csv
-<<<<<<< HEAD
-addlvar.csv
-stopremove.csv
-=======
 
 # Comma Separated Values
 .csv
@@ -140,4 +136,3 @@ cnn_dailymail/train.csv
 cnn_dailymail/validation.csv
 notebook/addlvar.csv
 modules
->>>>>>> e2c162e192ddd6e0d93f822f8fd9100e6b00aa7a
