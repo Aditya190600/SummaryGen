@@ -130,12 +130,5 @@ dmypy.json
 notebook/stopremove.csv
 
 # Comma Separated Values
-.csv
-cnn_dailymail/test.csv
-cnn_dailymail/train.csv
-cnn_dailymail/validation.csv
-notebook/addlvar.csv
 modules
-glove.6B.100d.txt
-notebook/Summ_POS.csv
-notebook/Text_POS.csv
+data/
